@@ -1,0 +1,15 @@
+Структура проекта:
+
+8-bit-sprite-studio/
+├── src/
+│   └── sprite_studio.py          # Программа с исходным кодом
+├── docs/
+│   └── screenshots/              # Скриншоты для README
+├── configuration/
+│   └──pyproject.toml             # Конфигурация black, flake8, Poetry
+├── documentation/
+│   │structure.txt                # Структура программы
+│   └──LICENSE.md                 # Лицензионный файл программы
+├── Windows/                      # Папка с программой под операционную систему Windows
+├── app.ico                       # Иконка программы
+└── README.md                     # Текстовый файл о самой программе
